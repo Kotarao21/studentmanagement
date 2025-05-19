@@ -1,1 +1,1 @@
-# studentmanagement
+A Student Management System developed using Java and MySQL with a Swing GUI and web version using JSP and Servlets. Features include student registration, course enrollment, grade tracking, and role-based login.# studentmanagement
